@@ -8,10 +8,18 @@ Multiple Disease Diagnosis: The system can diagnose a range of diseases such as:
 3. Ebola
 4. Measles
 5. Arthritis
-# Interactive Symptom Queries: The system interacts with the user, asking questions about specific symptoms.
-# Dynamic Response Handling: Based on user input (yes or no), the system confirms or rules out possible diseases.
-# Undo Functionality: The system can undo all assertions (yes or no responses) after completing a diagnosis, allowing for a fresh diagnosis in a new session.
-# Error Handling: If a disease hypothesis fails due to the absence of certain symptoms, the system moves to the next possible diagnosis without crashing.
+
+# Interactive Symptom Queries: 
+The system interacts with the user, asking questions about specific symptoms.
+
+# Dynamic Response Handling: 
+Based on user input (yes or no), the system confirms or rules out possible diseases.
+
+# Undo Functionality: 
+The system can undo all assertions (yes or no responses) after completing a diagnosis, allowing for a fresh diagnosis in a new session.
+
+# Error Handling: 
+If a disease hypothesis fails due to the absence of certain symptoms, the system moves to the next possible diagnosis without crashing.
 
 # How It Works:
 Start Diagnosis: The system begins by hypothesizing different diseases, starting with the most common.
